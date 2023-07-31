@@ -1,0 +1,21 @@
+{
+  "name": "ampulla",
+  "displayName": "Ampulla",
+  "description": "Sucrose VSCode Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ampulla",
+        "uiTheme": "vs",
+        "path": "./themes/Ampulla-color-theme.json"
+      }
+    ]
+  }
+}
