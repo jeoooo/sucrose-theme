@@ -2088,7 +2088,9 @@
 		"minimap.selectionHighlight": "#bbd2ff",
 		"minimap.errorHighlight": "#e51400",
 		"minimap.warningHighlight": "#e9a700",
-		"minimap.background": "#f3f2f0",
+		"minimap.background": "#cfe8cb",
+		"minimapSlider.activeBackground": "#ffffff7b",
+		"minimapSlider.hoverBackground": "#ffffff7b",
 		"sideBar.dropBackground": "#cfe8cb7e",
 		"editorGroup.emptyBackground": "#f3f2f0",
 		"panelSection.border": "#cfe8cb",
@@ -2099,6 +2101,6 @@
 		"breadcrumb.activeSelectionForeground": "#368f8c",
 		"editorGutter.commentRangeForeground": "#324976",
 		"debugExceptionWidget.background": "#f3f2f0",
-		"debugExceptionWidget.border": "#324976"
+		"debugExceptionWidget.border": "#324976",
 	}
 }
