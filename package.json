@@ -1,8 +1,9 @@
 {
   "name": "ampulla",
-  "displayName": "Ampulla",
+  "displayName": "Bio Alchemy",
   "description": "Sucrose VSCode Color Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "icon": "images/sucrose-theme-icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -17,5 +18,9 @@
         "path": "./themes/Ampulla-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeoooo/sucrose-theme.git"
   }
 }
